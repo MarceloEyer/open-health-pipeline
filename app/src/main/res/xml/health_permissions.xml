@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Declares the Health Connect permissions this app uses.
+    Health Connect reads this file to display the permissions rationale screen.
+    Each permission listed here must also be declared in AndroidManifest.xml.
+-->
+<health-permissions xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.health.READ_STEPS" />
+</health-permissions>
