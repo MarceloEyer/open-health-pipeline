@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Open Health Pipeline</string>
+    <string name="health_connect_available">Available</string>
+    <string name="health_connect_update_required">Update Required</string>
+    <string name="health_connect_not_supported">Not Supported</string>
+    <string name="health_permission_rationale_title">Health data permissions</string>
+</resources>

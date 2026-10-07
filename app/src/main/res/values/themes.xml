@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Base theme for the app. Compose handles all visual theming at runtime.
+        NoActionBar ensures Compose has full control of the window chrome.
+    -->
+    <style name="Theme.OpenHealthPipeline" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,1515 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "Create a native Android application module in Kotlin.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232553
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388249927
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791391471887
+      }
+    ],
+    "Use Gradle Kotlin DSL.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232642
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791391500615
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791391503689
+      }
+    ],
+    "Configure a reasonable package name for Open Health Pipeline.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232706
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791391515281
+      }
+    ],
+    "Configure minimum/target SDK values compatible with the selected Health Connect SDK.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232788
+      }
+    ],
+    "Add Jetpack Compose.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232843
+      }
+    ],
+    "Add AndroidX Health Connect dependency using a current supported version.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232897
+      }
+    ],
+    "Add only dependencies needed for Stage A.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388232954
+      }
+    ],
+    "Verify the project with a Gradle build.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233010
+      }
+    ],
+    "Fix all compile/configuration errors before proceeding.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233061
+      }
+    ],
+    "Create `HealthConnectRepository` or equivalent.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233141
+      }
+    ],
+    "Use the official Health Connect availability API.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233221
+      }
+    ],
+    "Represent availability as an internal app state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233275
+      }
+    ],
+    "available;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233328
+      }
+    ],
+    "provider install/update required;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233426
+      }
+    ],
+    "unavailable.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233480
+      }
+    ],
+    "Surface the current state to the UI.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233527
+      }
+    ],
+    "Re-check availability when appropriate after returning to the app.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233577
+      }
+    ],
+    "Add manifest permissions required for `StepsRecord`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233627
+      }
+    ],
+    "Implement the official Health Connect runtime permission request.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233680
+      }
+    ],
+    "Add a `Request permissions` button.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233727
+      }
+    ],
+    "Detect whether Steps read permission is already granted.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233777
+      }
+    ],
+    "Display granted/missing state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233827
+      }
+    ],
+    "Handle denial without crashing.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233878
+      }
+    ],
+    "Add a `HealthRecordReader` abstraction or a minimal equivalent.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233930
+      }
+    ],
+    "Implement a `StepsRecord` reader first.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388233988
+      }
+    ],
+    "Determine a legal historical time range.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234070
+      }
+    ],
+    "Call `HealthConnectClient.readRecords`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234144
+      }
+    ],
+    "Handle `pageToken`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234206
+      }
+    ],
+    "Continue until all pages are read.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234263
+      }
+    ],
+    "Do not aggregate Steps data.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234313
+      }
+    ],
+    "Do not load the complete history into memory before processing.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234372
+      }
+    ],
+    "number of pages;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234430
+      }
+    ],
+    "number of records;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234477
+      }
+    ],
+    "structured error state if reading fails.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234529
+      }
+    ],
+    "Create `RawHealthRecord`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234577
+      }
+    ],
+    "Preserve common metadata exposed by Health Connect.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234626
+      }
+    ],
+    "Health Connect record ID;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234685
+      }
+    ],
+    "record type;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234735
+      }
+    ],
+    "start time;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234825
+      }
+    ],
+    "end time;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234875
+      }
+    ],
+    "zone offsets when available;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234927
+      }
+    ],
+    "data origin;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388234980
+      }
+    ],
+    "last modified time;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235027
+      }
+    ],
+    "client record ID/version;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235079
+      }
+    ],
+    "device metadata;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235127
+      }
+    ],
+    "step count.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235184
+      }
+    ],
+    "Do not destructively normalize or discard the source information.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235237
+      }
+    ],
+    "Add unit tests for the mapper if practical.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235293
+      }
+    ],
+    "Display Health Connect availability.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235346
+      }
+    ],
+    "Display permission state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235427
+      }
+    ],
+    "Add `Request permissions`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235476
+      }
+    ],
+    "Add `Read Health Connect`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235527
+      }
+    ],
+    "Display idle/loading/success/error state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235579
+      }
+    ],
+    "Display record count.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235627
+      }
+    ],
+    "Display page count if useful for debugging.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235687
+      }
+    ],
+    "Do not display sensitive individual measurement values.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235740
+      }
+    ],
+    "Log sync/read start and end.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235791
+      }
+    ],
+    "Log record type.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235843
+      }
+    ],
+    "Log page number.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235901
+      }
+    ],
+    "Log count per page.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388235951
+      }
+    ],
+    "Log error category.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236003
+      }
+    ],
+    "Never log authentication secrets.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236052
+      }
+    ],
+    "Avoid logging raw health values.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236103
+      }
+    ],
+    "Build the APK/debug app.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236155
+      }
+    ],
+    "Install on the physical phone.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236209
+      }
+    ],
+    "Confirm Health Connect is detected.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236259
+      }
+    ],
+    "Grant Steps permission.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236311
+      }
+    ],
+    "Trigger read.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236373
+      }
+    ],
+    "Confirm real records are found.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236423
+      }
+    ],
+    "Trigger read a second time.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236477
+      }
+    ],
+    "Confirm stable behavior.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236528
+      }
+    ],
+    "Record any SDK/device-specific behavior in README.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236635
+      }
+    ],
+    "Introduce a small record-type registry.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236694
+      }
+    ],
+    "type name;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236742
+      }
+    ],
+    "Kotlin record class;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236802
+      }
+    ],
+    "read permission;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236856
+      }
+    ],
+    "feature dependency if relevant;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236908
+      }
+    ],
+    "reader;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388236960
+      }
+    ],
+    "mapper.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237008
+      }
+    ],
+    "Keep orchestration generic while mapping remains type-specific.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237060
+      }
+    ],
+    "Request permission.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237117
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237442
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237639
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237853
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238091
+      }
+    ],
+    "Read with pagination.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237173
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237471
+      }
+    ],
+    "Preserve samples.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237236
+      }
+    ],
+    "Preserve metadata.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237293
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241151
+      }
+    ],
+    "Add mapper tests where practical.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237353
+      }
+    ],
+    "Test using real phone data.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237411
+      }
+    ],
+    "Preserve metadata/value.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237525
+      }
+    ],
+    "Test on device.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237608
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237824
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238067
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238227
+      }
+    ],
+    "Read sessions.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237688
+      },
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237880
+      }
+    ],
+    "Preserve session metadata.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237743
+      }
+    ],
+    "Preserve sleep stages.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237793
+      }
+    ],
+    "Preserve session metadata and segments/laps when exposed.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237927
+      }
+    ],
+    "Treat exercise route access separately.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388237987
+      }
+    ],
+    "Do not make route access a prerequisite for importing the session itself.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238038
+      }
+    ],
+    "Read records.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238142
+      }
+    ],
+    "Preserve typed measurement meaning and source unit representation.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238193
+      }
+    ],
+    "Create the Supabase project.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238275
+      }
+    ],
+    "Record project URL locally.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238326
+      }
+    ],
+    "Use a publishable/anon client key only.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238378
+      }
+    ],
+    "Never store a service-role key in the Android project.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238429
+      }
+    ],
+    "Add secrets/local configuration to `.gitignore`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238479
+      }
+    ],
+    "Create migration folder.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238537
+      }
+    ],
+    "Add `health_records`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238589
+      }
+    ],
+    "Add `sync_state`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238641
+      }
+    ],
+    "`(user_id, record_type, hc_record_id)`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238692
+      }
+    ],
+    "Add useful time/type index.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238805
+      }
+    ],
+    "Add `updated_at` behavior if desired.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238858
+      }
+    ],
+    "Do not add speculative indexes without a demonstrated need.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238911
+      }
+    ],
+    "Select the simplest secure prototype auth flow.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388238970
+      }
+    ],
+    "Ensure the app receives a stable authenticated `user_id`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239024
+      }
+    ],
+    "Confirm requests carry an authenticated JWT.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239073
+      }
+    ],
+    "Handle missing/expired session.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239127
+      }
+    ],
+    "Enable RLS on `health_records`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239174
+      }
+    ],
+    "Enable RLS on `sync_state`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239228
+      }
+    ],
+    "Add policies based on `auth.uid() = user_id`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239287
+      }
+    ],
+    "Support required SELECT/INSERT/UPDATE operations.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239337
+      }
+    ],
+    "Verify one user cannot access another user's records using integration tests.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239391
+      }
+    ],
+    "Define persistence interface independent of Supabase.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239457
+      }
+    ],
+    "Implement Supabase sink.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239523
+      }
+    ],
+    "Accept `RawHealthRecord`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239585
+      }
+    ],
+    "Convert common metadata to relational fields.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239642
+      }
+    ],
+    "Persist type-specific content to JSONB.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239701
+      }
+    ],
+    "Keep Health Connect code independent from Supabase SDK classes.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239746
+      }
+    ],
+    "Upsert using the compound logical identity.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239801
+      }
+    ],
+    "Re-running the same records must not create duplicates.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239844
+      }
+    ],
+    "Avoid allowing stale incoming records to replace newer state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239905
+      }
+    ],
+    "Clear `deleted_at` if a newer upsertion restores a record.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388239959
+      }
+    ],
+    "Add integration tests.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240063
+      }
+    ],
+    "Send each mapped Health Connect page to the sink.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240110
+      }
+    ],
+    "Upload in configurable sub-batches if required.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240162
+      }
+    ],
+    "Avoid accumulating the complete history in memory.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240220
+      }
+    ],
+    "Implement bounded retries for transient backend/network failures.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240273
+      }
+    ],
+    "Do not silently discard a failed batch.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240325
+      }
+    ],
+    "Return partial/failure state clearly.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240384
+      }
+    ],
+    "Compare the project registry with the current official SDK.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240430
+      }
+    ],
+    "Identify stable, feature-gated, experimental, or unavailable types.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240486
+      }
+    ],
+    "Document unsupported types.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240541
+      }
+    ],
+    "Do not reference classes that do not exist in the selected SDK.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240592
+      }
+    ],
+    "activity/fitness;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240646
+      }
+    ],
+    "body measurements;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240704
+      }
+    ],
+    "vitals;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240757
+      }
+    ],
+    "hydration/nutrition;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240809
+      }
+    ],
+    "cycle tracking;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240860
+      }
+    ],
+    "wellness;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240910
+      }
+    ],
+    "planned exercise.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388240962
+      }
+    ],
+    "Preserve all exposed nested samples.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241012
+      }
+    ],
+    "Preserve stages/segments.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241062
+      }
+    ],
+    "Preserve enum meanings.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241118
+      }
+    ],
+    "Do not apply arbitrary truncation.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241249
+      }
+    ],
+    "Add representative serialization tests.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241308
+      }
+    ],
+    "records read;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241362
+      }
+    ],
+    "records persisted;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241436
+      }
+    ],
+    "pages;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241491
+      }
+    ],
+    "skipped because permission missing;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241558
+      }
+    ],
+    "skipped because feature unavailable;": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241626
+      }
+    ],
+    "failed with error category.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241684
+      }
+    ],
+    "Store a stable scope.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241744
+      }
+    ],
+    "Store changes token.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241805
+      }
+    ],
+    "Store last successful sync.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241875
+      }
+    ],
+    "Store backfill completion state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241940
+      }
+    ],
+    "Never replace a known-safe token before persistence succeeds.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388241994
+      }
+    ],
+    "Establish an appropriate initial changes position before/around backfill.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242050
+      }
+    ],
+    "Perform historical import.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242108
+      }
+    ],
+    "Reconcile changes that occurred during backfill.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242166
+      }
+    ],
+    "Persist the resulting safe token only after reconciliation succeeds.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242222
+      }
+    ],
+    "Add tests or reproducible test procedure.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242279
+      }
+    ],
+    "Fetch changes using stored token.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242339
+      }
+    ],
+    "Process upsertion changes.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242410
+      }
+    ],
+    "Process deletion changes.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242511
+      }
+    ],
+    "Follow paginated changes responses.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242569
+      }
+    ],
+    "Persist records/deletions.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242624
+      }
+    ],
+    "Advance token only after successful persistence.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242677
+      }
+    ],
+    "Find record using compound logical identity.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242740
+      }
+    ],
+    "Set `deleted_at`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242795
+      }
+    ],
+    "Keep prior payload.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242857
+      }
+    ],
+    "Handle deletion of an unknown local record without crashing.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242911
+      }
+    ],
+    "Detect unusable token state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388242971
+      }
+    ],
+    "Trigger reconciliation/backfill.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243025
+      }
+    ],
+    "Establish new safe token.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243087
+      }
+    ],
+    "Never silently mark the dataset current.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243141
+      }
+    ],
+    "Check provider/feature support.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243205
+      }
+    ],
+    "Declare/request the required permission.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243259
+      }
+    ],
+    "Do not block foreground sync if permission is denied.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243310
+      }
+    ],
+    "Create periodic sync worker.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243373
+      }
+    ],
+    "Respect Android background limitations.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243436
+      }
+    ],
+    "Apply network constraints where useful.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243491
+      }
+    ],
+    "Reuse the same `SyncCoordinator`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243554
+      }
+    ],
+    "Avoid creating a second independent sync implementation.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243616
+      }
+    ],
+    "Ensure manual and background sync do not corrupt shared state.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243723
+      }
+    ],
+    "Use unique work or equivalent coordination.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243778
+      }
+    ],
+    "Preserve idempotency.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243839
+      }
+    ],
+    "README explains project goal.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243897
+      }
+    ],
+    "README explains current implemented stage.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388243957
+      }
+    ],
+    "README lists tested device/Android/provider versions.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244011
+      }
+    ],
+    "README lists current supported record types.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244072
+      }
+    ],
+    "README documents known Health Connect limitations.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244127
+      }
+    ],
+    "README explains how to build and test.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244191
+      }
+    ],
+    "Verify `.gitignore`.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244251
+      }
+    ],
+    "Never commit Supabase service-role key.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244309
+      }
+    ],
+    "Never commit private tokens.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244370
+      }
+    ],
+    "Review repository history if a secret is accidentally added.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244427
+      }
+    ],
+    "Run Gradle build.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244492
+      }
+    ],
+    "Fix compiler errors immediately.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244563
+      }
+    ],
+    "Do not stack multiple unverified implementation stages.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244636
+      }
+    ],
+    "Commit only buildable checkpoints whenever practical.": [
+      {
+        "executionId": "0df559f4-1123-45b3-b28d-03c160a06a6e",
+        "chatSessionId": "sess_19ce6ab4-a867-4a46-9392-5437351e6e5f",
+        "timestamp": 1791388244709
+      }
+    ]
+  }
+}
