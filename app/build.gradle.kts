@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "io.openhealthpipeline.app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "io.openhealthpipeline.app"
